@@ -81,7 +81,7 @@
             // 
             // btnmul
             // 
-            this.btnmul.Location = new System.Drawing.Point(94, 50);
+            this.btnmul.Location = new System.Drawing.Point(94, 51);
             this.btnmul.Name = "btnmul";
             this.btnmul.Size = new System.Drawing.Size(36, 31);
             this.btnmul.TabIndex = 3;
@@ -92,7 +92,7 @@
             // btnsuma
             // 
             this.btnsuma.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.btnsuma.Location = new System.Drawing.Point(136, 54);
+            this.btnsuma.Location = new System.Drawing.Point(136, 51);
             this.btnsuma.Name = "btnsuma";
             this.btnsuma.Size = new System.Drawing.Size(35, 31);
             this.btnsuma.TabIndex = 4;
