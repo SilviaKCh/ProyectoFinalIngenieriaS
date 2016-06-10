@@ -244,7 +244,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(244, 252);
+            this.ClientSize = new System.Drawing.Size(192, 252);
             this.Controls.Add(this.btn0);
             this.Controls.Add(this.btnpunto);
             this.Controls.Add(this.btnigual);
