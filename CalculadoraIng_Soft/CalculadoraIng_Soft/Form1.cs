@@ -151,5 +151,10 @@ namespace CalculadoraIng_Soft
             Resultado = PrimeraCant;
             txtdisplayC.Text = Math.Sqrt(PrimeraCant).ToString();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
