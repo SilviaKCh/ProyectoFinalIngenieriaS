@@ -244,7 +244,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(192, 252);
+            this.ClientSize = new System.Drawing.Size(206, 252);
             this.Controls.Add(this.btn0);
             this.Controls.Add(this.btnpunto);
             this.Controls.Add(this.btnigual);
@@ -265,7 +265,7 @@
             this.Controls.Add(this.btnborrar);
             this.Controls.Add(this.txtdisplayC);
             this.Name = "Form1";
-            this.Text = "Calcu";
+            this.Text = "calculadora";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
